@@ -7,3 +7,5 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: a ✨ _fact_ ✨
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayssalElAnsari)](https://github.com/anuraghazra/github-readme-stats)
+
