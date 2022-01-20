@@ -7,7 +7,7 @@
 <b>- 📫 How to reach me:</b> <a href="mailto:fayssal.el.ansari@gmail.com"> Via Email 📧 <a>    
 <b>- ⚡ Fun fact:</b> Everyone is ✨ _special_ ✨  
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center"> ✈️ Languages and Tools I've worked with 👨‍🏭</h2>
   
 <table>
     <thead>
