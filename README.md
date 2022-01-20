@@ -63,11 +63,10 @@
         </tr>
     </tbody>
 </table>
-  
-
+ 
 
 <details align="center">
-  <summary>📈 my github stats</summary>
+  <summary><b>📈 my github stats</b></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayssalElAnsari&show_icons=true)
 
