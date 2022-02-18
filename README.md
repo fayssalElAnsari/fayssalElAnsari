@@ -2,7 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fayssalelansari&label=Profile%20views&color=0e75b6&style=flat" alt="fayssalelansari" /> </p>
 
-<b>- 🔭 I’m currently working on:</b> A python3 phylogenetic tree generator  
 <b>- 🌱 I’m currently learning:</b> Flutter  
 <b>- 📫 How to reach me:</b> <a href="mailto:fayssal.el.ansari@gmail.com"> Via Email 📧 <a>    
 <b>- ⚡ Fun fact:</b> Everyone is ✨ _special_ ✨  
